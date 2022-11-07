@@ -1,23 +1,3 @@
-import collections
-from time import sleep
-from flask_wtf import FlaskForm
-from json2html import *
-import requests, psycopg2, json
-from flask import Flask, render_template, request, url_for, redirect
-from wtforms import StringField, PasswordField, BooleanField
-from wtforms.validators import InputRequired, Email, Length
-from flask_sqlalchemy  import SQLAlchemy
-from werkzeug.security import generate_password_hash, check_password_hash
-from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
-from flask_bootstrap import Bootstrap
-
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-All Versions of addons
-
 Flask==2.2.2
 Flask_Bootstrap==3.3.7.1
 Flask_Login==0.6.2
