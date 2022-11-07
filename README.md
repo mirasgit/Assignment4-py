@@ -9,6 +9,7 @@
 </ol>
 ## Usage
 Sign Up by clicking on the navigation bar, enter your data.
+
 ![image](https://user-images.githubusercontent.com/97873080/200347491-75f48b46-3c03-4bfd-bca4-822ee240cd4e.png)
 
 After that, authorize yourself by Logging In.
