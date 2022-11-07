@@ -10,3 +10,19 @@ from flask_sqlalchemy  import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from flask_bootstrap import Bootstrap
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Flask==2.2.2
+Flask_Bootstrap==3.3.7.1
+Flask_Login==0.6.2
+flask_sqlalchemy==3.0.2
+Flask_WTF==1.0.1
+json2html==1.3.0
+psycopg2==2.9.4
+python_bcrypt==0.3.2
+requests==2.26.0
+WTForms==3.0.1
