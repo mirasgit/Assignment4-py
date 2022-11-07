@@ -2,7 +2,7 @@
 # Flask App for searching NFT info
 ## How to Install
 <ol>
-  <li> Install all libraries from Requirements.txt.</li>
+  <li> Install all libraries from Requirements.txt. (You can just copy it and paste it on top of your code)</li>
   <li> Install PostgreSQL (pgadmin4).</li>
   <li> Download all project files and connect it to your database (change'conn' variable in the app.py file).</li>
   <li> Launch app.py and open the address http://127.0.0.1:5000 in your browser</li>
