@@ -16,6 +16,8 @@ from flask_bootstrap import Bootstrap
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+All Versions of addons
+
 Flask==2.2.2
 Flask_Bootstrap==3.3.7.1
 Flask_Login==0.6.2
